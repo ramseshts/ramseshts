@@ -1,4 +1,4 @@
-### Hey 👋, I'm Ramses
+### Hey 👋, I'm Ramses Sudarto Hutasoit
 
 I am a programming language lover who is passionate about solving complex problems and creating software solutions. I am ❤️ Open Source and therefore really enjoy working on interesting opensource projects.
 
